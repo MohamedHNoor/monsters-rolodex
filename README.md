@@ -96,7 +96,7 @@ Give a ⭐️ if you like this project
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to @ZhangMYihua
+I would like to thank @ZhangMYihua
 
 
 
