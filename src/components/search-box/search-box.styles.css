@@ -1,0 +1,24 @@
+.search-box {
+  -webkit-appearance: none;
+  border: none;
+  outline: none;
+  padding: 10px 20px;
+  width: 300px;
+  border-radius: 5px;
+  line-height: 30px;
+  margin-bottom: 30px;
+}
+
+.search-box::placeholder {
+  font-size: 14px;
+  font-style: italic;
+}
+
+@media screen and (max-width: 800px) {
+  .search-box {
+    margin: 0 auto;
+    padding: 10px 20px;
+    margin-bottom: 30px;
+    width: 300px;
+  }
+}
